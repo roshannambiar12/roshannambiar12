@@ -20,7 +20,7 @@ I'm a dedicated Full-Stack Developer focused on building scalable, modern web ap
 🤝 Let’s Connect  
 📧 Email: roshannambiar12@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/roshan-tp/
-💻 GitHub: roshannambiar12 {https://github.com/roshannambiar12}
+💻 GitHub: roshannambiar12 (https://github.com/roshannambiar12)
 
 
 > 💡 Looking for a developer who ships clean code, prioritizes performance, and cares deeply about the user experience? Let's connect and build something amazing! 🚀
