@@ -12,7 +12,7 @@ I'm a dedicated Full-Stack Developer focused on building scalable, modern web ap
 
 🏆 Highlights  
 - 🚀 Built responsive, SEO-optimized apps with Next.js & Tailwind  
-- 💡 Developed full-stack MERN projects with  REST APIs  
+- 💡 Developed full-stack MEARN projects with  REST APIs  
 - 📈 Focused on code quality, performance, and scalable architecture  
 - 🎨 Passionate about UI/UX, accessibility, and responsive design  
 
