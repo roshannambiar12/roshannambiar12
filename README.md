@@ -5,8 +5,8 @@
 I'm a dedicated Full-Stack Developer focused on building scalable, modern web applications using **Next.js**, **React**, **Tailwind CSS**, and the **MERN Stack**. I enjoy transforming ideas into real-world products with clean UI and performant backends.
 
 💻 Tech Stack  
-**Languages:** JavaScript · TypeScript · HTML · CSS  
-**Frontend:** React.js · Next.js · Tailwind CSS · Redux Toolkit  
+**Languages:** JavaScript · JavaScript · HTML · CSS  
+**Frontend:** React.js · Next.js · Tailwind CSS   
 **Backend:** Node.js · Express.js · MongoDB  
 **Tools & DevOps:** Git · GitHub · Vercel · Postman  
 
